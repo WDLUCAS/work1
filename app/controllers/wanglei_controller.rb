@@ -1,0 +1,2 @@
+class WangleiController < ApplicationController
+end

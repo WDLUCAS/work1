@@ -1,0 +1,2 @@
+module WangleiHelper
+end
