@@ -8,7 +8,7 @@ HomeWork1 ÊµÏÖÒÔÏÂ¹¦ÄÜ£º£¨1£©linkµ½ÆäËûÖ÷Ò³£¨2£©ÏÔÊ¾±¾µØÊ±¼ä£¨3£©µã»÷°´Å¥£¬ÊµÏÖÒ
 ![image](./image/UCAS.png)<br/>
 ÔÚHelloÒ³Ãæµã»÷databaseÌø×ªµ½Êı¾İ¿â²Ù×÷Ò³Ãæ£¬¸ÃÒ³ÃæÏÔÊ¾Êı¾İ¿â¼ÇÂ¼²¢Ìá¹©ĞŞ¸ÄÊı¾İ¿â¹¦ÄÜ£¬ÈçÍ¼ËùÊ¾£º<br/>
 ![image](./image/database.png)<br/>
-µã»÷NewHighscoreÌø×ªµ½Ìí¼Ó·ÖÊıÒ³Ãæ£¬ÈçÍ¼ËùÊ¾£º<br/>
+µã»÷New High scoreÌø×ªµ½Ìí¼Ó·ÖÊıÒ³Ãæ£¬ÈçÍ¼ËùÊ¾£º<br/>
 ![image](./image/addRecoder.png)<br/>
 Ìí¼ÓÍêÊı¾İºóÌø×ªµ½Êı¾İ¿âÏÔÊ¾Ò³Ãæ£¬ÈçÍ¼ËùÊ¾£º<br/>
 ![image](./image/database2.png)<br/>
